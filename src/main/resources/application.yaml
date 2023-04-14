@@ -7,3 +7,7 @@ eureka:
     fetch-registry: false
   instance:
     lease-renewal-interval-in-seconds: 1
+
+spring:
+  application:
+    name: eureka-server
